@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imgs"/>
+    <qresource prefix="/">
+        <file>png/circle (1).png</file>
+        <file>png/cursor.png</file>
+        <file>png/record-vinyl.png</file>
+        <file>png/rocket.png</file>
+        <file>png/stop.png</file>
+        <file>png/undo.png</file>
+        <file>png/redo.png</file>
+        <file>png/arrow-right.png</file>
+        <file>png/trash.png</file>
+    </qresource>
+</RCC>
